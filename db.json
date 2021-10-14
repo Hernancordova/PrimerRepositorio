@@ -2,7 +2,7 @@
   "posts": [
     {
       "usuario": "Hernan",
-      "clave": 1234
+      "clave": "abcd"
     }
   ],
   "profile": {
